@@ -60,8 +60,14 @@ The Linux environment was investigated using the KillerCoda Playground. The foll
 
 The following commands were used to collect the server information:
 
-```bash
+``bash
 cat /etc/os-release
 lscpu
 free -h
 df -h
+
+### KillerCoda Screenshot
+
+The screenshot below shows the Linux terminal and the commands used to collect the server information.
+
+![KillerCoda Linux Terminal](screenshots/killercoda-terminal.png)
