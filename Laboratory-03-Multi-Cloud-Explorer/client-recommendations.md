@@ -64,3 +64,19 @@ I recommend AWS for Client D because the company serves customers around the wor
 | University | Microsoft Azure | Strong Microsoft integration |
 | AI Research Company | Google Cloud | AI, Machine Learning, and Kubernetes |
 | Global E-Commerce Company | AWS | Global availability and scalability |
+
+
+## Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | AWS provides many services and allows startups to scale their resources as their application grows. |
+| Enterprise Organization | AWS | AWS provides a wide range of services and strong scalability for large organizations. |
+| Microsoft Environment | Microsoft Azure | Azure is suitable because it works well with Microsoft technologies such as Windows Server, Microsoft 365, and Active Directory. |
+| AI / Machine Learning | Google Cloud | Google Cloud is a strong choice for AI and machine learning workloads and provides services for data and AI applications. |
+| Kubernetes Deployment | Google Cloud | Google Cloud provides Google Kubernetes Engine (GKE), which is designed for running and managing Kubernetes applications. |
+| Global Web Application | AWS | AWS has a large global infrastructure and services that can help applications handle users from different locations. |
+
+## Overall Recommendation
+
+The best cloud platform depends on the needs of the organization. AWS is a strong choice for general cloud workloads and scalable applications. Microsoft Azure is suitable for organizations that already use Microsoft technologies. Google Cloud is a strong choice for AI, machine learning, data, and Kubernetes workloads.
