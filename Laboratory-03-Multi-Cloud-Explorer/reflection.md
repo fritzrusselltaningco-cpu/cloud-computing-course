@@ -1,1 +1,9 @@
+In this laboratory, I learned more about different cloud platforms like AWS, Microsoft Azure, and Google Cloud Platform (GCP). Before doing this activity, I only knew that cloud computing is used for storing files and running applications online. After doing the research, I understood that each cloud platform has different services and features that can be useful depending on what a company needs.
 
+I learned that AWS has many services such as Amazon EC2, Amazon S3, and Amazon RDS. I also learned that Microsoft Azure is useful for organizations that already use Microsoft products and services. For Google Cloud, I learned that it has services related to artificial intelligence, machine learning, and Kubernetes. Comparing these platforms helped me understand that there is no single cloud platform that is always the best. It depends on the purpose, budget, and needs of the user or company.
+
+I also created client recommendations for different situations. For example, I recommended AWS for a startup because it can support the company as it grows. For a university, I recommended Azure because of its connection with Microsoft services. This activity helped me practice choosing a cloud platform based on the situation instead of just choosing one randomly.
+
+Another part I learned was using KillerCoda and Linux. I used Linux commands like cat /etc/os-release, lscpu, free -h, and df -h to check the system information. At first, I was not familiar with these commands, but I slowly understood what each command was showing.
+
+Overall, this laboratory gave me a better understanding of multi-cloud computing. I learned that AWS, Azure, and GCP have different strengths, and choosing the right platform depends on the requirements of the project. As a 2nd year IT student, this activity also helped me become more comfortable with cloud platforms and Linux commands.
