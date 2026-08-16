@@ -3,8 +3,11 @@
 ## Mission 3: Become a Multi-Cloud Explorer
 
 Student: Fritz Russell Daus
+
 Course: BS-IT
+
 Laboratory: Cloud Computing
+
 Activity: Laboratory Activity 3
 
 ## Mission Overview
