@@ -2,6 +2,11 @@
 
 ## Mission 3: Become a Multi-Cloud Explorer
 
+Student:Fritz Russell Daus
+Course:BS-IT
+Laboratory:Cloud Computing
+Activity:Laboratory Activity 3
+
 This laboratory activity explores three major cloud platforms: Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
 
 The purpose of this activity is to research their services, compare their features, recommend suitable cloud platforms for different business situations, and investigate a Linux environment using KillerCoda.
